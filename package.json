@@ -1,0 +1,13 @@
+{
+  "name": "healthbridge",
+  "version": "2.0.0",
+  "description": "AI healthcare navigation agent — NVIDIA Agents for Impact",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:search": "TAVILY_KEY=YOUR_KEY_HERE node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
