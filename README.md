@@ -10,7 +10,7 @@
 
 ## The Problem
 
-1 in 10 Americans has no health insurance. When they get sick, they face a fragmented system of free clinics, sliding-scale programs, and financial assistance — all requiring hours of research to navigate.
+1 in 10 Americans has no health insurance. When they get sick, they face a fragmented system of free clinics, sliding-scale programs, and financial assistance, all requiring hours of research to navigate.
 
 **HealthBridge does it in 20 seconds.**
 
@@ -62,7 +62,7 @@ model: "nvidia/llama-3.3-nemotron-super-49b-v1"
 baseURL: "https://integrate.api.nvidia.com/v1"
 ```
 
-The agent runs a true tool-calling loop — Nemotron decides what to search, fires parallel queries, reasons over results, and streams the final plan.
+The agent runs a true tool-calling loop - Nemotron decides what to search, fires parallel queries, reasons over results, and streams the final plan.
 
 ---
 
