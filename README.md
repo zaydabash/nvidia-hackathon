@@ -1,4 +1,4 @@
-# HealthBridge 🏥
+# HealthBridge
 > AI-powered healthcare navigation for the 25M+ uninsured Americans
 
 **Built for the NVIDIA Agents for Impact Hackathon**
