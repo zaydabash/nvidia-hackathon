@@ -1,7 +1,7 @@
 # HealthBridge
 > AI-powered healthcare navigation for the 25M+ uninsured Americans
 
-**Built for the NVIDIA Agents for Impact Hackathon**
+**Built for the NVIDIA Impact Hackathon**
 
 [![NVIDIA Nemotron](https://img.shields.io/badge/NVIDIA-Nemotron%2049B-76b900?style=flat&logo=nvidia)](https://build.nvidia.com)
 [![Tavily Search](https://img.shields.io/badge/Search-Tavily-blue)](https://tavily.com)
