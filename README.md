@@ -83,7 +83,7 @@ node server.js
 TAVILY_KEY=tvly-yourkey node server.js
 ```
 
-Open **http://localhost:3000**
+Open **http://localhost:**
 
 ### Required API Keys
 
